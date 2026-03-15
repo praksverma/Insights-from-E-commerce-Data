@@ -22,6 +22,6 @@ Analyze E-commerce dataset to identify key sales trends, customer behaviour and 
 ![Project chart](Screenshot2.jpg)
 
 ##  Business Recommendations
--Targeted marketing campaigns for low turnover products like Suits, Jumpsuits, skirt
--Targeted campaigns for months of the year with low sales
--Better inventory management for fast moving products like shorts, tops & tees
+- Targeted marketing campaigns for low turnover products like Suits, Jumpsuits, skirt
+- Targeted campaigns for months of the year with low sales
+- Better inventory management for fast moving products like shorts, tops & tees
