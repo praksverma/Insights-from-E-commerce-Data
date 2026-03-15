@@ -13,10 +13,10 @@ Analyze E-commerce dataset to identify key sales trends, customer behaviour and 
 - Google sheets
 
 ## Key Insights
--Sales trends indicate tend to decrease towards the end of the week
--Sales trends by month
--Sales trends by product: Jeans and Outerwear & coats are the biggest sellers
--Inventory items: Average time in stock
+- Sales trends indicate tend to decrease towards the end of the week
+- Sales trends by month
+- Sales trends by product: Jeans and Outerwear & coats are the biggest sellers
+- Inventory items: Average time in stock
 
 ##  Visualizations
 ![Project chart](Screenshot2.jpg)
