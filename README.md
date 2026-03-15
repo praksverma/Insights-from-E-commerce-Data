@@ -19,7 +19,7 @@ Analyze E-commerce dataset to identify key sales trends, customer behaviour and 
 -Inventory items: Average time in stock
 
 ##  Visualizations
-Screenshot 2.jpg
+(Screenshot 2.jpg)
 
 ##  Business Recommendations
 -Targeted marketing campaigns for low turnover products like Suits, Jumpsuits, skirt
